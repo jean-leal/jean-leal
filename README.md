@@ -1,12 +1,13 @@
 # Bem vindo(a) ao meu perfil
 
-Olá, eu sou o Jean Leal
+Olá, eu sou o Jean Leal, aluno do curso Staart. 
+Moro em Cruzeiro do Oeste - PR
 
 ## Meus hobbies
 
-- Jogar jogos eletrônicos
 - Jogar Basquete e futebol
 - Estudar 
+- Jogar jogos eletrônicos
 - Assistir séries
 
 ## Atualmente estudando 
