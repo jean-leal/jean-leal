@@ -1,19 +1,19 @@
 # Bem vindo(a) ao meu perfil
 
-Olá, eu sou o Jean Leal, aluno do curso Staart. 
+Olá, eu sou o Jean Leal.
+Graduado em Analise e Desenvolvimento de sistemas e aluno do curso Staart. 
 Moro em Cruzeiro do Oeste - PR
 
 ## Meus hobbies
 
-- Jogar Basquete e futebol
-- Estudar 
+- Jogar Basquete e Futebol
+- Estudar sobre tecnologia
 - Jogar jogos eletrônicos
-- Assistir séries
+- Assistir séries e filmes
 
 ## Atualmente estudando 
 
-- Git e GitHub
-- PHP
+- React
 - Java Script
 
 ## Meus contatos
